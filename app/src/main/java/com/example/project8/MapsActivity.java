@@ -48,7 +48,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 System.out.println(point.latitude+"---"+point.longitude);
             }
         });
-        //123sedf
+
         //задает координаты
         //LatLng sydney = new LatLng(-34, 151);
         //устанавливает маркер в заданные координаты
